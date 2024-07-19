@@ -17,6 +17,10 @@ public class SampleTest {
 	  
 	  System.out.println("vanakam1");
 	  System.out.println("Mubarak1");
+	  
+	  System.out.println("NAMASTE2");
+	  System.out.println("vanakam2");
+	  System.out.println("Mubarak2");
 	}
 
 }
