@@ -8,6 +8,10 @@ public class SimpleTest {
 		System.out.println("NAMASTE3");
 		  System.out.println("vanakam3");
 		  System.out.println("Mubarak3");
+		  
+		  System.out.println("NAMASTE3.0");
+		  System.out.println("vanakam3.0");
+		  System.out.println("Mubarak3.0");
 	
 	}
 
